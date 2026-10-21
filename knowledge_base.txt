@@ -1,0 +1,37 @@
+
+COMPANY: NovaTech Store
+
+ABOUT:
+NovaTech Store is a fictional online store that sells
+electronics and accessories.
+
+PRODUCTS:
+- NovaTech Store sells electronics and accessories.
+- Available product categories may include laptops, mobile accessories, headphones, and chargers.
+- Specific product availability must be confirmed by the support team.
+
+SHIPPING POLICY:
+- Standard shipping takes 3–5 business days.
+- Express shipping takes 1–2 business days.
+- Delivery times may vary by location.
+
+RETURN POLICY:
+- Customers can request a return within 14 days of delivery.
+- Items must be unused and in their original packaging.
+- Some products may be excluded from returns.
+
+REFUND POLICY:
+- Refunds are processed after the returned item is inspected.
+- Approved refunds are sent to the original payment method.
+- Processing times may vary depending on the payment provider.
+
+PAYMENT POLICY:
+- Customers can pay using supported payment methods at checkout.
+- Payment availability may vary by location.
+
+CUSTOMER SUPPORT:
+- Customers should provide their order number when asking about an order.
+- The support team must verify order details before discussing
+  specific order information.
+- If the answer is not available in this knowledge base,
+  the customer should contact the support team.
