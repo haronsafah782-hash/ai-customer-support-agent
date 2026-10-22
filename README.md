@@ -4,6 +4,10 @@ An AI-powered customer support chatbot built using Python, Streamlit, Ollama, an
 
 The application simulates an electronics store's customer support assistant, helping customers with product questions, shipping, returns, refunds, and other support inquiries.
 
+## 📸 Chatbot Preview
+
+![NovaTech Support Chatbot](images/novatech-chatbot.png)
+
 ## 🚀 Features
 
 - AI-powered customer conversations using a locally running language model
@@ -31,7 +35,7 @@ The application simulates an electronics store's customer support assistant, hel
 ```bash
 git clone https://github.com/haronsafah782-hash/ai-customer-support-agent.git
 cd ai-customer-support-agent
-```
+
 
 ### 2. Create and activate a virtual environment
 
