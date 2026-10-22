@@ -29,8 +29,8 @@ The application simulates an electronics store's customer support assistant, hel
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd YOUR_REPOSITORY_FOLDER
+git clone https://github.com/haronsafah782-hash/ai-customer-support-agent.git
+cd ai-customer-support-agent
 ```
 
 ### 2. Create and activate a virtual environment
